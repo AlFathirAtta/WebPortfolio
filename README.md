@@ -55,7 +55,7 @@ Pastikan kamu sudah menginstal [Node.js](https://nodejs.org/) di komputermu.
 ### Langkah-langkah
 1. **Clone repositori ini**
    ```bash
-   git clone [https://github.com/username-github-kamu/nama-repositori-portfolio.git](https://github.com/username-github-kamu/nama-repositori-portfolio.git)
+   git clone [https://github.com/AlFathirAtta/WebPortfolio.git](https://github.com/AlFathirAtta/WebPortfolio.git)
 2. **Masuk ke dalam direktori proyek**
    ```bash
    cd WebPortfolio
